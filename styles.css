@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.vai{
+    margin-left: 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    
+}
+
+#nav1{
+    background-color: black;
+}
+
+a{
+    margin:15px 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+a:hover{
+    transition: 3ms;
+}
+
+.logo{
+    width:70px;
+}
+
+#imgg{
+    height: 40rem;
+}
+
+.shop{
+    margin:25px;
+    padding-top:10% ;
+}
+
+.btm{
+    margin-top: 3%;
+    text-align: center;
+}
+
+#iphone{
+    padding-bottom: 15px;
+}
+
+
+h3{
+    
+    font-family: 'Montserrat', sans-serif;
+}
+
+#rside{
+    text-align: center;
+}
+
+.nav1{
+    margin-bottom: 5%;
+}
